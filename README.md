@@ -1,3 +1,6 @@
+The NETFLIX CLONE APP is deployed at Firebase and you can check it out here-
+https://netflix-clone-f3fd8.firebaseapp.com/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
